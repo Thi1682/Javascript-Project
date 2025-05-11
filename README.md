@@ -1,2 +1,2 @@
-# Javascript-Project
+# BreakOut Game
 BreakOut Game
